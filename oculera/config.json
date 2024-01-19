@@ -14,5 +14,9 @@
   "heroku": {
     "restApiUrl": "https://oculera-webbackend-4bfbaf5189ec.herokuapp.com",
     "webSocketApiUrl": "wss://oculera-webbackend-4bfbaf5189ec.herokuapp.com"
+  },
+  "dev": {
+    "restApiUrl": "https://oculera-dev-4f0f1fd6a0f4.herokuapp.com",
+    "webSocketApiUrl": "wss://oculera-dev-4f0f1fd6a0f4.herokuapp.com"
   }
 }
