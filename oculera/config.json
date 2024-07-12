@@ -1,5 +1,4 @@
 {
-  "versionsUrl": "https://config.oculera.site/oculera/versions.json",
   "default": {
     "restApiUrl": "https://oculera-webbackend-4bfbaf5189ec.herokuapp.com",
     "webSocketApiUrl": "wss://oculera-webbackend-4bfbaf5189ec.herokuapp.com"
