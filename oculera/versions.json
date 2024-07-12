@@ -1,0 +1,26 @@
+{
+  "supportedOsVersions": [
+    "4.8.19", "5.8.4"
+  ],
+  "pui4": {
+    "latestApkVersion": "2.4.2",
+    "appDownloadUrl": "https://play.google.com/store/apps/details?id=com.pui4",
+    "features": [
+      "New UI design"
+    ]
+  },
+  "pui5": {
+    "latestApkVersion": "2.5.2",
+    "appDownloadUrl": "https://play.google.com/store/apps/details?id=com.pui5",
+    "features": [
+      "New UI design"
+    ]
+  },
+  "default": {
+    "latestApkVersion": "2.5.2",
+    "appDownloadUrl": "https://play.google.com/store/apps/details?id=com.pui5",
+    "features": [
+      "New UI design"
+    ]
+  }
+}
