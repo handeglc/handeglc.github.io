@@ -1,23 +1,23 @@
 {
   "supportedOsVersions": [
-    "4.8.19", "5.8.4"
+    "4.8.19", "5.8.4", "5.9.8"
   ],
   "pui4": {
     "latestApkVersion": "2.6",
     "features": [
-      "New UI design"
+      "Voice Assistant", "New UI Design"
     ]
   },
   "pui5": {
     "latestApkVersion": "2.6",
     "features": [
-      "New UI design"
+      "Voice Assistant", "New UI Design"
     ]
   },
   "default": {
     "latestApkVersion": "2.6",
     "features": [
-      "New UI design"
+      "Voice Assistant", "New UI Design"
     ]
   }
 }
