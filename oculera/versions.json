@@ -1,23 +1,26 @@
 {
   "supportedOsVersions": [
-    "4.8.19", "5.8.4", "5.9.8"
+    "4.8.19", "5.8.4", "5.9.8", "5.9.9"
   ],
   "pui4": {
-    "latestApkVersion": "2.6",
+    "latestApkVersion": "2.6.1",
     "features": [
-      "Voice Assistant", "New UI Design"
+      "Performance Improvements",
+      "Voice Assistant"
     ]
   },
   "pui5": {
-    "latestApkVersion": "2.6",
+    "latestApkVersion": "2.6.1",
     "features": [
-      "Voice Assistant", "New UI Design"
+      "Performance Improvements",
+      "Voice Assistant"
     ]
   },
   "default": {
-    "latestApkVersion": "2.6",
+    "latestApkVersion": "2.6.1",
     "features": [
-      "Voice Assistant", "New UI Design"
+      "Performance Improvements",
+      "Voice Assistant"
     ]
   }
 }
