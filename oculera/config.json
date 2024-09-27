@@ -24,16 +24,16 @@
     "webSocketApiUrl": "wss://oculera-api2-b496bd8286c2.herokuapp.com"
   },
   "heroku": {
-    "restApiUrl": "https://oculera-webbackend-4bfbaf5189ec.herokuapp.com",
-    "webSocketApiUrl": "wss://oculera-webbackend-4bfbaf5189ec.herokuapp.com"
+    "restApiUrl": "https://oculera-api2-b496bd8286c2.herokuapp.com",
+    "webSocketApiUrl": "wss://oculera-api2-b496bd8286c2.herokuapp.com"
   },
   "dev": {
     "restApiUrl": "https://dev-webbackend-e0cb1287efa6.herokuapp.com",
     "webSocketApiUrl": "wss://dev-webbackend-e0cb1287efa6.herokuapp.com"
   },
   "offline": {
-    "restApiUrl": "https://oculera-webbackend-4bfbaf5189ec.herokuapp.com",
-    "webSocketApiUrl": "wss://oculera-webbackend-4bfbaf5189ec.herokuapp.com"
+    "restApiUrl": "https://oculera-api2-b496bd8286c2.herokuapp.com",
+    "webSocketApiUrl": "wss://oculera-api2-b496bd8286c2.herokuapp.com"
   },
   "api2": {
     "restApiUrl": "https://oculera-api2-b496bd8286c2.herokuapp.com",
