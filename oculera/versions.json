@@ -3,14 +3,14 @@
     "4.8.19", "5.8.4", "5.9.8", "5.9.9"
   ],
   "pui4": {
-    "latestApkVersion": "2.6.1",
+    "latestApkVersion": "2.6.2",
     "features": [
-      "Performance Improvements",
+      "Superior tests",
       "Voice Assistant"
     ]
   },
   "pui5": {
-    "latestApkVersion": "2.6.1",
+    "latestApkVersion": "2.6.2",
     "features": [
       "Performance Improvements",
       "Voice Assistant"
@@ -19,7 +19,7 @@
   "default": {
     "latestApkVersion": "2.6.1",
     "features": [
-      "Performance Improvements",
+      "Superior tests",
       "Voice Assistant"
     ]
   }
