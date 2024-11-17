@@ -3,24 +3,24 @@
     "4.8.19", "5.8.4", "5.9.2", "5.9.8", "5.9.9"
   ],
   "pui4": {
-    "latestApkVersion": "2.6.2",
+    "latestApkVersion": "2.6.3",
     "features": [
       "Superior tests",
-      "Voice Assistant"
+      "Multiple languages for Voice Assistant"
     ]
   },
   "pui5": {
-    "latestApkVersion": "2.6.2",
+    "latestApkVersion": "2.6.3",
     "features": [
       "Superior tests",
-      "Voice Assistant"
+      "Multiple languages for Voice Assistant"
     ]
   },
   "default": {
-    "latestApkVersion": "2.6.2",
+    "latestApkVersion": "2.6.3",
     "features": [
       "Superior tests",
-      "Voice Assistant"
+      "Multiple languages for Voice Assistant"
     ]
   }
 }
