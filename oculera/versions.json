@@ -3,24 +3,24 @@
     "4.8.19", "5.8.4", "5.9.2", "5.9.8", "5.9.9"
   ],
   "pui4": {
-    "latestApkVersion": "2.6.3",
+    "latestApkVersion": "2.6.4",
     "features": [
-      "Superior tests",
-      "Multiple languages for Voice Assistant"
+      "Superior tests, Esterman-2 (160 degrees)",
+      "New languages for Voice Assistant (DE, JA, IT, TR)"
     ]
   },
   "pui5": {
-    "latestApkVersion": "2.6.3",
+    "latestApkVersion": "2.6.4",
     "features": [
-      "Superior tests",
-      "Multiple languages for Voice Assistant"
+      "Superior tests, Esterman-2 (160 degrees)",
+      "New languages for Voice Assistant (DE, JA, IT, TR)"
     ]
   },
   "default": {
-    "latestApkVersion": "2.6.3",
+    "latestApkVersion": "2.6.4",
     "features": [
-      "Superior tests",
-      "Multiple languages for Voice Assistant"
+      "Superior tests, Esterman-2 (160 degrees)",
+      "New languages for Voice Assistant (DE, JA, IT, TR)"
     ]
   }
 }
