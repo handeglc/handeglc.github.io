@@ -1,49 +1,49 @@
 {
   "default": {
-    "restApiUrl": "https://oculera-api2-b496bd8286c2.herokuapp.com",
-    "webSocketApiUrl": "wss://oculera-api2-b496bd8286c2.herokuapp.com"
+    "restApiUrl": "https://api.oculera.site",
+    "webSocketApiUrl": "wss://api.oculera.site"
   },
   "1.5": {
     "restApiUrl": "https://htajg14emh.execute-api.eu-central-1.amazonaws.com/demo",
     "webSocketApiUrl": "wss://pzym6yx6y8.execute-api.eu-central-1.amazonaws.com/demo"
   },
   "2.1": {
-    "restApiUrl": "https://oculera-api2-b496bd8286c2.herokuapp.com",
-    "webSocketApiUrl": "wss://oculera-api2-b496bd8286c2.herokuapp.com"
+    "restApiUrl": "https://api.oculera.site",
+    "webSocketApiUrl": "wss://api.oculera.site"
   },
   "2.2": {
-    "restApiUrl": "https://oculera-api2-b496bd8286c2.herokuapp.com",
-    "webSocketApiUrl": "wss://oculera-api2-b496bd8286c2.herokuapp.com"
+    "restApiUrl": "https://api.oculera.site",
+    "webSocketApiUrl": "wss://api.oculera.site"
   },
   "2.3": {
-    "restApiUrl": "https://oculera-api2-b496bd8286c2.herokuapp.com",
-    "webSocketApiUrl": "wss://oculera-api2-b496bd8286c2.herokuapp.com"
+    "restApiUrl": "https://api.oculera.site",
+    "webSocketApiUrl": "wss://api.oculera.site"
   },
-  "2.6": {
-    "restApiUrl": "https://oculera-api2-b496bd8286c2.herokuapp.com",
-    "webSocketApiUrl": "wss://oculera-api2-b496bd8286c2.herokuapp.com"
+  "2.6.5": {
+    "restApiUrl": "https://devapi.oculera.site",
+    "webSocketApiUrl": "wss://devapi.oculera.site"
   },
   "heroku": {
-    "restApiUrl": "https://oculera-api2-b496bd8286c2.herokuapp.com",
-    "webSocketApiUrl": "wss://oculera-api2-b496bd8286c2.herokuapp.com"
+    "restApiUrl": "https://api.oculera.site",
+    "webSocketApiUrl": "wss://api.oculera.site"
   },
   "dev": {
-    "restApiUrl": "https://dev-webbackend-e0cb1287efa6.herokuapp.com",
-    "webSocketApiUrl": "wss://dev-webbackend-e0cb1287efa6.herokuapp.com"
+    "restApiUrl": "https://devapi.oculera.site",
+    "webSocketApiUrl": "wss://devapi.oculera.site"
   },
   "offline": {
-    "restApiUrl": "https://oculera-api2-b496bd8286c2.herokuapp.com",
-    "webSocketApiUrl": "wss://oculera-api2-b496bd8286c2.herokuapp.com"
+    "restApiUrl": "https://api.oculera.site",
+    "webSocketApiUrl": "wss://api.oculera.site"
   },
   "api2": {
-    "restApiUrl": "https://oculera-api2-b496bd8286c2.herokuapp.com",
-    "webSocketApiUrl": "wss://oculera-api2-b496bd8286c2.herokuapp.com"
+    "restApiUrl": "https://api.oculera.site",
+    "webSocketApiUrl": "wss://api.oculera.site"
   },
   "aws": {
     "restApiUrl": "https://htajg14emh.execute-api.eu-central-1.amazonaws.com/demo",
     "webSocketApiUrl": "wss://pzym6yx6y8.execute-api.eu-central-1.amazonaws.com/demo"
   },
   "dicom": {
-    "url": "https://oculera-dicom-805b45fe78a1.herokuapp.com"
+    "url": "https://dcm.oculera.site"
   }
 }
