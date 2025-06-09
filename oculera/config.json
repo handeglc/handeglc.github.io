@@ -20,8 +20,8 @@
     "webSocketApiUrl": "wss://api.oculera.site"
   },
   "2.7": {
-    "restApiUrl": "https://devapi.oculera.site",
-    "webSocketApiUrl": "wss://devapi.oculera.site"
+    "restApiUrl": "https://demoapi.oculera.site",
+    "webSocketApiUrl": "wss://demoapi.oculera.site"
   },
   "heroku": {
     "restApiUrl": "https://api.oculera.site",
@@ -30,6 +30,10 @@
   "dev": {
     "restApiUrl": "https://devapi.oculera.site",
     "webSocketApiUrl": "wss://devapi.oculera.site"
+  },
+  "demo": {
+    "restApiUrl": "https://demoapi.oculera.site",
+    "webSocketApiUrl": "wss://demoapi.oculera.site"
   },
   "offline": {
     "restApiUrl": "https://api.oculera.site",
