@@ -31,6 +31,10 @@
     "restApiUrl": "https://demoapi.oculera.site",
     "webSocketApiUrl": "wss://demoapi.oculera.site"
   },
+  "2.7.3": {
+    "restApiUrl": "https://demoapi.oculera.site",
+    "webSocketApiUrl": "wss://demoapi.oculera.site"
+  },
   "heroku": {
     "restApiUrl": "https://api.oculera.site",
     "webSocketApiUrl": "wss://api.oculera.site"
