@@ -3,21 +3,21 @@
     "4.8.19", "5.8.4", "5.9.2", "5.9.8", "5.9.9"
   ],
   "pui4": {
-    "latestApkVersion": "2.6.5",
+    "latestApkVersion": "2.7.11",
     "features": [
-      "Foveal threshold test"
+      "Virtual assistant"
     ]
   },
   "pui5": {
-    "latestApkVersion": "2.6.5",
+    "latestApkVersion": "2.7.11",
     "features": [
-      "Foveal threshold test"
+      "Virtual assistant"
     ]
   },
   "default": {
-    "latestApkVersion": "2.6.5",
+    "latestApkVersion": "2.7.11",
     "features": [
-      "Foveal threshold test"
+      "Virtual assistant"
     ]
   }
 }
