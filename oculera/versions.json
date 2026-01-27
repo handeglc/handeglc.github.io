@@ -3,21 +3,21 @@
     "4.8.19", "5.8.4", "5.9.2", "5.9.8", "5.9.9"
   ],
   "pui4": {
-    "latestApkVersion": "2.7.11",
+    "latestApkVersion": "2.7.13",
     "features": [
-      "Virtual assistant"
+      "Auto Kinetic, SWAP, Eye Video Stream"
     ]
   },
   "pui5": {
-    "latestApkVersion": "2.7.11",
+    "latestApkVersion": "2.7.13",
     "features": [
-      "Virtual assistant"
+      "Auto Kinetic, SWAP, Eye Video Stream"
     ]
   },
   "default": {
-    "latestApkVersion": "2.7.11",
+    "latestApkVersion": "2.7.13",
     "features": [
-      "Virtual assistant"
+      "Auto Kinetic, SWAP, Eye Video Stream"
     ]
   }
 }
