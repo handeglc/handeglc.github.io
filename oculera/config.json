@@ -19,22 +19,6 @@
     "restApiUrl": "https://api.oculera.site",
     "webSocketApiUrl": "wss://api.oculera.site"
   },
-  "2.7.5": {
-    "restApiUrl": "https://demoapi.oculera.site",
-    "webSocketApiUrl": "wss://demoapi.oculera.site"
-  },
-  "2.7.8": {
-    "restApiUrl": "https://api.oculera.site",
-    "webSocketApiUrl": "wss://api.oculera.site"
-  },
-  "2.7.9": {
-    "restApiUrl": "https://demoapi.oculera.site",
-    "webSocketApiUrl": "wss://demoapi.oculera.site"
-  },
-  "2.7.10": {
-    "restApiUrl": "https://demoapi.oculera.site",
-    "webSocketApiUrl": "wss://demoapi.oculera.site"
-  },
   "2.8": {
     "restApiUrl": "https://demoapi.oculera.site",
     "webSocketApiUrl": "wss://demoapi.oculera.site"
@@ -44,6 +28,10 @@
     "webSocketApiUrl": "wss://devapi.oculera.site"
   },
   "2.8.2": {
+    "restApiUrl": "https://demoapi.oculera.site",
+    "webSocketApiUrl": "wss://demoapi.oculera.site"
+  },
+  "2.8.3": {
     "restApiUrl": "https://demoapi.oculera.site",
     "webSocketApiUrl": "wss://demoapi.oculera.site"
   },
