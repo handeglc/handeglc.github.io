@@ -3,21 +3,21 @@
     "4.8.19", "5.8.4", "5.9.2", "5.9.8", "5.9.9"
   ],
   "pui4": {
-    "latestApkVersion": "2.7.13",
+    "latestApkVersion": "2.8.4",
     "features": [
-      "Auto Kinetic, SWAP, Eye Video Stream"
+      "Two eye test, Phoria, Fixes"
     ]
   },
   "pui5": {
-    "latestApkVersion": "2.7.13",
+    "latestApkVersion": "2.8.4",
     "features": [
-      "Auto Kinetic, SWAP, Eye Video Stream"
+      "Two eye test, Phoria, Fixes"
     ]
   },
   "default": {
-    "latestApkVersion": "2.7.13",
+    "latestApkVersion": "2.8.4",
     "features": [
-      "Auto Kinetic, SWAP, Eye Video Stream"
+      "Two eye test, Phoria, Fixes"
     ]
   }
 }
