@@ -35,9 +35,9 @@
     "restApiUrl": "https://demoapi.oculera.site",
     "webSocketApiUrl": "wss://demoapi.oculera.site"
   },
-  "2.8.4.3": {
-    "restApiUrl": "https://devapi.oculera.site",
-    "webSocketApiUrl": "wss://devapi.oculera.site"
+  "2.8.4.2": {
+    "restApiUrl": "https://demopi.oculera.site",
+    "webSocketApiUrl": "wss://demopi.oculera.site"
   },
   "2.8.5": {
     "restApiUrl": "https://devapi.oculera.site",
