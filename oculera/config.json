@@ -70,5 +70,9 @@
   "dicom": {
     "url": "https://dcm.oculera.site",
     "uidRoot": "1.2.826.0.1.3680043.10.1750"
+  },
+  "swe": {
+    "restApiUrl": "https://swe.api.oculera.site",
+    "webSocketApiUrl": "wss://swe.api.oculera.site"
   }
 }
