@@ -74,5 +74,9 @@
   "swe": {
     "restApiUrl": "https://swe.api.oculera.site",
     "webSocketApiUrl": "wss://swe.api.oculera.site"
+  },
+  "uae": {
+    "restApiUrl": "https://uae.api.oculera.site",
+    "webSocketApiUrl": "wss://uae.api.oculera.site"
   }
 }
